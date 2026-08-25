@@ -44,8 +44,9 @@ two-cycle penalty on a redirect, with implicit predict-not-taken behaviour.
 
 ## Block Diagram
 
-<!-- TODO: add draw.io diagram -->
-<img width="3282" height="1980" alt="riscv_5stage_datapath" src="https://github.com/user-attachments/assets/789296bc-7b79-4816-923b-d2d209907842" />
+<img width="8192" height="4962" alt="riscv_5stage_datapath" src="https://github.com/user-attachments/assets/b06ac5a1-8a3f-43c5-b200-8a445e73c660" />
+
+*Click to view full size. Derived directly from `core_top.sv`*
 
 ---
 
@@ -89,7 +90,7 @@ riscv_5stage_cpu.srcs/
 Get a copy of the project:
 
 ```bash
-git clone https://github.com/yourusername/riscv-5stage-cpu.git
+git clone https://github.com/OmidFaize/riscv-5stage-cpu.git
 cd riscv-5stage-cpu
 ```
 
