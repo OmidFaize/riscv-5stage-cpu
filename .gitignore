@@ -51,3 +51,33 @@ desktop.ini
 *.swo
 .vscode/
 .idea/
+
+# ============================================================
+#  cocotb
+# ============================================================
+sim_build/
+generated/
+
+# ============================================================
+#  Python
+#  Local virtual environments, bytecode, test/tool caches, and
+#  coverage/package artifacts. These are regenerated locally.
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+
+# Common standalone test result file produced by cocotb/pytest tooling
+results.xml
