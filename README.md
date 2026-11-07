@@ -6,6 +6,8 @@ with full data forwarding, load-use interlock, and branch/jump flush logic.
 
 Simulation only - verified in Vivado 2025.2 (XSim), Icarus Verilog, and cocotb.
 
+Developed in collaboration with Nikolas Vlachos.
+
 ---
 
 ## Overview
